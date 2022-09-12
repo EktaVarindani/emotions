@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-color: lightpink;
+}
+h1 {
+    background-color: lightcyan;    
+    height:45px;
+    width: 700px;
+    margin-left: 200px;
+}
+hr {
+    background-color: lightcoral;
+    height: 1px;
+    width: 75%;
+}
+#ekta {
+    background-color: beige;
+    border-radius: 10px;
+}
+#camera {
+    border-width: 2px;
+    border-color: black;
+   width: 350px;
+   height: 300px;
+   border-style: solid;
+   
+}
+#neha {
+    background-color:blanchedalmond;
+    border-radius: 10px;
+}
